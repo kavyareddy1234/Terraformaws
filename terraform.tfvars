@@ -1,0 +1,8 @@
+aws_access_key = "AKIAZXL3JUJAG46DBWEP"
+aws_secret_key = "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"
+aws_region = "us-east-1"
+instance_name = "test1"
+instance_type = "t2.micro"
+subnet_id = "subnet-0f9e3264"
+ami_id = "ami-02a21de19e617a912"
+number_of_instances = "1"
